@@ -1,15 +1,39 @@
-# Birkhoff Lee
 
-Howdy! This is Birkhoff. I'm a Taiwanese student currently living in Taipei City. I study Computer Science at National Taiwan Normal University. I work on backend engineering and site reliability engineering. I've also been writing [blogs](https://blog.birkhoff.me) for years.
+<br />
+<a href="https://www.facebook.com/birkhoff.lee">
+  <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com/birkhofflee">
+  <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.reddit.com/user/birkhofflee">
+  <img align="left" alt="My Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://www.instagram.com/birkhofflee">
+  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/birkhofflee">
+  <img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/birkh0ff">
+  <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
-# Skills
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=birkhofflee.birkhofflee)
 
-* Node.js
-* Docker / Kubernetes
-* Linux
+<br />
 
-# Work Experience
+```js
+let birkhoff = {
+  pronouns: ['he', 'his'],
+  skills: ['Node.js', 'Docker', 'Kubernetes', 'Linux'],
+  education: 'Undergraduate at National Taiwan Normal University',
+  location: 'Taipei City, Taiwan',
+  websites: ['https://birkhoff.me', 'https://blog.birkhoff.me'],
+  works: ['Backend Developer at jsDelivr']
+}
+```
 
-* Backend Developer, [jsDelivr](https://www.jsdelivr.com) -- 2020 - Present
-* Site Reliability Engineer, [Lionfree](https://lionfree.net) -- 2018 - Present
-* Software Engineering, [National Center For High-Performance Computing](https://www.nchc.org.tw) -- 2015 - 2016
+<br />
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=birkhofflee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
