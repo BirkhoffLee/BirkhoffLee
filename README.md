@@ -1,4 +1,4 @@
-### 👋 Welcome! This is [Birkhoff](https://birkhoff.me).
+### 👋 Hola! This is [Birkhoff](https://birkhoff.me).
 
 <a href="https://www.facebook.com/birkhoff.lee">
   <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -26,6 +26,7 @@ let birkhoff = {
   location: 'Taipei City, Taiwan',
   education: 'Undergraduate at National Taiwan Normal University',
   skills: ['Node.js', 'Docker', 'Kubernetes', 'Linux'],
+  languages: ['English', 'Chinese', 'Spanish'],
   works: ['Backend Developer at jsDelivr'],
   websites: ['https://birkhoff.me', 'https://blog.birkhoff.me'],
   email: "hello@birkhoff.me"
