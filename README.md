@@ -1,6 +1,5 @@
-### Welcome! This is [Birkhoff](https://birkhoff.me).
+### 👋 Welcome! This is [Birkhoff](https://birkhoff.me).
 
-<br />
 <a href="https://www.facebook.com/birkhoff.lee">
   <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
