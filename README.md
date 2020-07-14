@@ -1,3 +1,4 @@
+### Welcome! This is [Birkhoff](https://birkhoff.me).
 
 <br />
 <a href="https://www.facebook.com/birkhoff.lee">
@@ -26,11 +27,12 @@
 ```js
 let birkhoff = {
   pronouns: ['he', 'his'],
-  skills: ['Node.js', 'Docker', 'Kubernetes', 'Linux'],
-  education: 'Undergraduate at National Taiwan Normal University',
   location: 'Taipei City, Taiwan',
+  education: 'Undergraduate at National Taiwan Normal University',
+  skills: ['Node.js', 'Docker', 'Kubernetes', 'Linux'],
+  works: ['Backend Developer at jsDelivr'],
   websites: ['https://birkhoff.me', 'https://blog.birkhoff.me'],
-  works: ['Backend Developer at jsDelivr']
+  email: "hello@birkhoff.me"
 }
 ```
 
