@@ -1,6 +1,6 @@
 ### Hola! This is [Birkhoff](https://birkhoff.me). 👋
 
-I'm a backend developer at [jsDelivr](https://www.jsdelivr.com). Currently a CS undergrad at National Taiwan Normal University. I love contributing to the open-source community, working with people around the globe to solve problems! I also love writing about computers on my [blog](https://blog.birkhoff.me).
+I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a CS undergrad at National Taiwan Normal University. I love contributing to the open-source community, working with people around the globe to solve problems! I also love writing about computers on my [blog](https://blog.birkhoff.me).
 
 * 🔨 Skills: Node.js, Docker, Kubernetes, Linux
 * 🌍 Languages: English (UK), Chinese (Taiwan) and español.
