@@ -18,9 +18,6 @@ I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a 
 <a href="https://www.reddit.com/user/birkhofflee">
   <img align="left" alt="My Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://www.linkedin.com/in/birkhofflee">
-  <img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://t.me/birkh0ff">
   <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
