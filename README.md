@@ -1,5 +1,16 @@
-### 👋 Hola! This is [Birkhoff](https://birkhoff.me).
+### Hola! This is [Birkhoff](https://birkhoff.me). 👋
 
+I'm a backend developer at [jsDelivr](https://www.jsdelivr.com). Currently a CS undergrad at National Taiwan Normal University. I love contributing to the open-source community, working with people around the globe to solve problems! I also love writing about computers on my [blog](https://blog.birkhoff.me).
+
+* 🔨 Skills: Node.js, Docker, Kubernetes, Linux
+* 🌍 Languages: English (UK), Chinese (Taiwan) and español.
+* 📫 How to reach me: [hello@birkhoff.me](mailto:hello@birkhoff.me)
+* 😄 Pronouns: He/Him.
+* ⚡ Fun fact: I love k-pop and I play drums. 🥁
+
+<a href="https://blog.birkhoiff.me">
+  <img align="left" alt="My Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ghost.svg" />
+</a>
 <a href="https://www.facebook.com/birkhoff.lee">
   <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -15,19 +26,3 @@
 <a href="https://t.me/birkh0ff">
   <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
-<br />
-<br />
-
-```js
-let birkhoff = {
-  pronouns: ['he', 'his'],
-  location: 'Taipei City, Taiwan',
-  education: 'Undergraduate at National Taiwan Normal University',
-  skills: ['Node.js', 'Docker', 'Kubernetes', 'Linux'],
-  languages: ['English', 'Chinese', 'Spanish'],
-  works: ['Backend Developer at jsDelivr'],
-  websites: ['https://birkhoff.me', 'https://blog.birkhoff.me'],
-  email: "hello@birkhoff.me"
-}
-```
