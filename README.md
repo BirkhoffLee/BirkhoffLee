@@ -4,6 +4,7 @@ I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a 
 
 * 🔨 Skills: Node.js, Docker, Kubernetes, Linux
 * 🌍 Languages: English (UK), Chinese (Taiwan) and español.
+* 🌱 I’m currently looking to learn Golang and Rust.
 * 📫 How to reach me: [hello@birkhoff.me](mailto:hello@birkhoff.me)
 * 😄 Pronouns: He/Him.
 * ⚡ Fun fact: I love k-pop and I play drums. 🥁
