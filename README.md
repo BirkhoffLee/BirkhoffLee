@@ -8,9 +8,6 @@ I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a 
 * 😄 Pronouns: He/Him.
 * ⚡ Fun fact: I love k-pop and I play drums. 🥁
 
-<a href="https://blog.birkhoiff.me">
-  <img align="left" alt="My Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ghost.svg" />
-</a>
 <a href="https://www.facebook.com/birkhoff.lee">
   <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
