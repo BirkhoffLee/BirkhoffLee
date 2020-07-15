@@ -16,8 +16,6 @@
   <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=birkhofflee.birkhofflee)
-
 <br />
 
 ```js
