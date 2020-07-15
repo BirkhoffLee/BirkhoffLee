@@ -21,5 +21,3 @@ I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a 
 <a href="https://t.me/birkh0ff">
   <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
-![](https://analytics.birkhoff.me/matomo.php?idsite=3&amp;rec=1)
