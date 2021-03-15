@@ -4,6 +4,7 @@ I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a 
 
 * 🔨 Skills: Node.js, Docker and Linux
 * 🌍 Languages: English (UK) and Chinese (Taiwan).
+* 🔑 PGP Signing Key: [https://birkhoff.me/pgp-key.txt](https://birkhoff.me/pgp-key.txt)
 * 📫 Reach out to me via E-mail: [hello@birkhoff.me](mailto:hello@birkhoff.me)
 
 <a href="https://www.facebook.com/birkhoff.lee">
