@@ -1,4 +1,4 @@
-### Hola! This is [Birkhoff](https://github.com/BirkhoffLee). 👋
+### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
 I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a CS undergrad at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me) and [AzureTar](https://azuretar.com/). I've been developing backend applications with Node.js for years. More recently I'm learning Site Reliability Engineering, getting myself more familiar with Terraform and Ansible. Right now looking into Elixir and Rails.
 
@@ -14,3 +14,5 @@ I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a 
 <a href="https://twitter.com/birkhofflee">
   <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+![Visitors since 12/05/2021](https://visitor-badge.glitch.me/badge?page_id=birkhofflee.github.readme)
