@@ -1,4 +1,4 @@
-<!-- built by gitlab-ci @ Wed May 12 2021 07:56:40 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Wed May 12 2021 08:03:54 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
 I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a CS undergrad at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me) and [AzureTar](https://azuretar.com/). I've been developing backend applications with Node.js for years. More recently I see my self as a Site Reliability Engineer, and getting myself more familiar with Terraform and Ansible. Right now looking into Elixir and Rails.
