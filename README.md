@@ -1,7 +1,7 @@
-<!-- built by gitlab-ci @ Sat Jun 19 2021 10:43:21 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Tue Jul 13 2021 13:04:22 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
-I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a CS undergrad at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me) and [AzureTar](https://azuretar.com/). I've been developing backend applications with Node.js for years. More recently I see myself as a Site Reliability Engineer, and getting myself more familiar with Terraform and Ansible. Right now looking into Elixir and Rails.
+I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a CS undergrad at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me) and [AzureTar](https://azuretar.com/). I've been developing backend applications with Node.js for years. More recently I see myself as a Site Reliability Engineer while getting myself more familiar with Terraform and Ansible. Right now looking into Swift & C++.
 
 * 🖊 My latest blog post: [學習與使用小鶴雙拼](https://birkhoff.me/%E5%AD%B8%E7%BF%92%E8%88%87%E4%BD%BF%E7%94%A8%E5%B0%8F%E9%B6%B4%E9%9B%99%E6%8B%BC/)
 * 🔨 Skills: Node.js, Docker and Linux
