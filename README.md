@@ -1,4 +1,4 @@
-<!-- built by gitlab-ci @ Wed Dec 08 2021 13:04:19 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Thu Dec 09 2021 13:04:18 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
 I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a CS undergrad at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me) and [AzureTar](https://azuretar.com/). I've been developing backend applications with Node.js for years. More recently I see myself as a Site Reliability Engineer while getting myself more familiar with AWS and IaC. Right now looking into Swift & C++.
