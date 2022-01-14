@@ -1,6 +1,6 @@
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
-I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a CS undergrad at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me) and [AzureTar](https://azuretar.com/). I've been developing backend applications with Node.js for years. More recently I see myself as a Site Reliability Engineer while getting myself more familiar with AWS and IaC. Right now looking into Swift & C++.
+I currently do SRE at Safemoon LLC and currently pursuing a bachelor's degree in Computer Science at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me). I've been developing backend applications with Node.js for years (and more recently TypeScript). I build infrastructure with Ansible and Terraform. I'm more of a YAML Engineer than a software developer.
 
 * 🖊 My latest blog post: {{ LATEST_BLOG_POST }}
 * 🔨 Skills: TypeScript, Docker and Linux
