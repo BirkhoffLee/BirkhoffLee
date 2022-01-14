@@ -1,9 +1,9 @@
-<!-- built by gitlab-ci @ Thu Jan 13 2022 13:05:05 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Fri Jan 14 2022 05:11:06 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
-I'm a backend developer at [jsDelivr](https://www.jsdelivr.com) and currently a CS undergrad at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me) and [AzureTar](https://azuretar.com/). I've been developing backend applications with Node.js for years. More recently I see myself as a Site Reliability Engineer while getting myself more familiar with AWS and IaC. Right now looking into Swift & C++.
+I currently do SRE at Safemoon LLC and currently pursuing a bachelor's degree in Computer Science at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me). I've been developing backend applications with Node.js for years (and more recently TypeScript). I build infrastructure with Ansible and Terraform. I'm more of a YAML Engineer than a software developer.
 
-* 🖊 My latest blog post: ["The mystery behind gpg-agent as SSH agent returning ""sign_and_send_pubkey: signing failed: agent refused operation"""](https://birkhoff.me/The-mystery-behind-gpg-agent-as-SSH-agent-returning-sign_and_send_pubkey-signing-failed-agent-refused-operation/)
+* 🖊 My latest blog post: [The mystery behind gpg-agent as SSH agent returning "sign_and_send_pubkey: signing failed: agent refused operation"](https://birkhoff.me/The-mystery-behind-gpg-agent-as-SSH-agent-returning-sign_and_send_pubkey-signing-failed-agent-refused-operation/)
 * 🔨 Skills: TypeScript, Docker and Linux
 * 🌍 Languages: English (UK) and Chinese (Taiwan).
 * 🔑 PGP Signing Key: [https://birkhoff.me/pgp-key.txt](https://birkhoff.me/pgp-key.txt)
