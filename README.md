@@ -1,7 +1,7 @@
-<!-- built by gitlab-ci @ Fri Jan 14 2022 05:11:06 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Fri Jan 14 2022 05:16:11 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
-I currently do SRE at Safemoon LLC and currently pursuing a bachelor's degree in Computer Science at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me). I've been developing backend applications with Node.js for years (and more recently TypeScript). I build infrastructure with Ansible and Terraform. I'm more of a YAML Engineer than a software developer.
+I currently do SRE at Safemoon LLC and also pursuing a bachelor's degree in Computer Science at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me). I've been developing backend applications with Node.js for years (and more recently TypeScript). I build secure infrastructure with Ansible and Terraform on AWS / GCP.
 
 * 🖊 My latest blog post: [The mystery behind gpg-agent as SSH agent returning "sign_and_send_pubkey: signing failed: agent refused operation"](https://birkhoff.me/The-mystery-behind-gpg-agent-as-SSH-agent-returning-sign_and_send_pubkey-signing-failed-agent-refused-operation/)
 * 🔨 Skills: TypeScript, Docker and Linux
