@@ -1,4 +1,4 @@
-<!-- built by gitlab-ci @ Tue Feb 01 2022 13:05:07 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Wed Feb 02 2022 13:03:51 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
 I'm currently a full-time SRE at Safemoon US LLC. I'm also pursuing a bachelor's degree in Computer Science at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me). I've been developing backend applications with Node.js for years (and more recently TypeScript). I build secure infrastructure with Ansible and Terraform on AWS / GCP.
@@ -10,10 +10,10 @@ I'm currently a full-time SRE at Safemoon US LLC. I'm also pursuing a bachelor's
 * 📫 Reach out to me via E-mail: [hello@birkhoff.me](mailto:hello@birkhoff.me)
 
 <a href="https://www.facebook.com/birkhoff.lee">
-  <img align="left" alt="My Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="My Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/birkhofflee">
-  <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="My Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
 </a>
 
 ![Visitors since 12/05/2021](https://visitor-badge.glitch.me/badge?page_id=birkhofflee.github.readme)
