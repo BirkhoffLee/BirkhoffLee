@@ -1,7 +1,9 @@
-<!-- built by gitlab-ci @ Sun Mar 06 2022 13:03:24 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Mon Mar 07 2022 13:04:44 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
 I'm currently a full-time SRE at Safemoon US LLC. I'm also pursuing a bachelor's degree in Computer Science at National Taiwan Normal University. I write about computers on my [blog](https://birkhoff.me). I've been developing backend applications with Node.js for years (and more recently TypeScript). I build secure infrastructure with Ansible and Terraform on AWS / GCP.
+
+If you're looking to build a large Minecraft network, visit my thread on [SpigotMC](https://www.spigotmc.org/threads/open-full-time-remote-distributed-infrastructure-management-cloud-native-iac-hybrid-cloud.245220/).
 
 * 🖊 My latest blog post: [The mystery of gpg-agent returning "sign_and_send_pubkey: signing failed: agent refused operation"](https://birkhoff.me/The-mystery-of-gpg-agent-returning-sign_and_send_pubkey-signing-failed-agent-refused-operation/)
 * 🔨 Skills: TypeScript, Docker and Linux
