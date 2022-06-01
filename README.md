@@ -1,3 +1,4 @@
+<!-- built by gitlab-ci @ Wed Jun 01 2022 12:11:48 GMT+0000 (Coordinated Universal Time) -->
 <!-- built by gitlab-ci @ Wed Jun 01 2022 09:14:00 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
@@ -11,12 +12,16 @@ I've been building software since the age of 13, and I'm currently a backend dev
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Safemoon" src="https://safemoon.com/img/logo_dark.svg"/>](https://safemoon.com/)
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://safemoon.com/img/logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://safemoon.com/img/logo_dark.svg">
+  <img align="left" height="94px" width="94px" alt="Safemoon Logo" src="https://safemoon.com/img/logo_dark.svg">
+</picture>](https://safemoon.com/)
 
 **Site Reliability Engineer (SRE)** \
 [**Safemoon**](https://safemoon.com/) • Contract \
 Tech stack: `RHEL`, `Ansible`, `Terraform`, `Docker`, `Prometheus`, `Tailscale`, `MySQL Galera` \
-Led ops team to maintain HA of 20+ servers & hundreds of containers. Designed p2p VPN setup for the hybrid cloud infra.
+Led ops team to maintain HA of 20+ servers & hundreds of containers. Designed p2p VPN setup for the hybrid cloud infrastructure. Connected Prometheus, AlertManager and Grafana for integrated monitoring & alerting.
 <br/>
 
 ### Blog Posts
