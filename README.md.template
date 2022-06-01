@@ -15,7 +15,7 @@ In the overview below you will find my most recent work experience:
 **Site Reliability Engineer (SRE)** \
 [**Safemoon**](https://safemoon.com/) • Contract \
 Tech stack: `RHEL`, `Ansible`, `Terraform`, `Docker`, `Prometheus`, `Tailscale`, `MySQL Galera` \
-Led ops team to maintain HA of 20+ servers & hundreds of containers. Designed p2p VPN setup for hybrid cloud solutions.
+Led ops team to maintain HA of 20+ servers & hundreds of containers. Designed p2p VPN setup for the hybrid cloud infra.
 <br/>
 
 ### Blog Posts
@@ -24,4 +24,4 @@ In the overview below you will find the featured posts of my [blog](https://birk
 {{ BLOG_POST_FEED }}
 
 ### Credits
-I would like to thank everyone who has supported me in my career. If you would like to support my work in open-source, consider [sponsoring me](https://github.com/sponsors/birkhofflee) or get in touch with me via [email](mailto:hello@birkhoff.me) or [Twitter](https://twitter.com/birkhofflee).
+I would like to thank everyone who has supported me in my career. If you would like to support my work in open-source, consider [sending a tip](https://birkhoff.me/#footer) or get in touch with me via [email](mailto:hello@birkhoff.me) or [Twitter](https://twitter.com/birkhofflee).
