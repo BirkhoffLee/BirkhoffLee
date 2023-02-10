@@ -1,4 +1,4 @@
-<!-- built by gitlab-ci @ Thu Feb 09 2023 13:04:20 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Fri Feb 10 2023 13:04:32 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
 I've been building software since the age of 13, and I'm currently a backend developer at [jsDelivr CDN](https://www.jsdelivr.com). I build secure and repeatable hybrid cloud infrastructure. If you're looking to build a large Minecraft game network, visit my thread on [SpigotMC](https://www.spigotmc.org/threads/open-full-time-remote-distributed-infrastructure-management-cloud-native-iac-hybrid-cloud.245220/).
@@ -11,11 +11,13 @@ I've been building software since the age of 13, and I'm currently a backend dev
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://safemoon.com/img/logo.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://safemoon.com/img/logo_dark.svg">
-  <img align="left" height="94px" width="94px" alt="Safemoon Logo" src="https://safemoon.com/img/logo_dark.svg">
-</picture>](https://safemoon.com/)
+<a href="https://safemoon.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://safemoon.com/img/logo.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://safemoon.com/img/logo_dark.svg">
+    <img align="left" height="94px" width="94px" alt="Safemoon Logo" src="https://safemoon.com/img/logo_dark.svg">
+  </picture>
+</a>
 
 **Site Reliability Engineer (SRE)** \
 [**Safemoon**](https://safemoon.com/) • Contract \
