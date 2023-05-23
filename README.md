@@ -1,3 +1,4 @@
+<!-- built by gitlab-ci @ Tue May 23 2023 09:22:02 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
 I've been building software since the age of 13, and I'm currently a backend developer at [jsDelivr CDN](https://www.jsdelivr.com). I build secure and repeatable hybrid cloud infrastructure. If you're looking to build a large Minecraft game network, visit my thread on [SpigotMC](https://www.spigotmc.org/threads/open-full-time-remote-distributed-infrastructure-management-cloud-native-iac-hybrid-cloud.245220/).
@@ -23,6 +24,13 @@ In the overview below you will find my most recent work experience:
 Tech stack: `RHEL`, `Ansible`, `Terraform`, `Docker`, `Prometheus`, `Tailscale`, `MySQL Galera` \
 Led ops team to maintain HA of 20+ servers & hundreds of containers. Designed p2p VPN setup for the hybrid cloud infrastructure. Connected Prometheus, AlertManager and Grafana for integrated monitoring & alerting.
 <br/>
+
+### Blog Posts
+In the overview below you will find the featured posts of my [blog](https://birkhoff.me/):
+
+- [Policy routing with Clash](https://birkhoff.me/articles/policy-routing-with-clash) (2022-08-26)
+- [Extending size of a EBS mounted on an active EC2 Instance](https://birkhoff.me/articles/extending-size-of-an-active-ebs-storage-attached-to-an-instance) (2022-01-05)
+- [Finding out a problem of gpg-agent](https://birkhoff.me/articles/finding-out-a-problem-of-gpg-agent) (2022-01-05)
 
 ### Credits
 I would like to thank everyone who has supported me in my career. If you would like to support my work in open-source, consider [sending a tip](https://birkhoff.me/#footer) or get in touch with me via [email](mailto:hello@birkhoff.me) or [Twitter](https://twitter.com/birkhofflee).
