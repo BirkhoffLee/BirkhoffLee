@@ -1,4 +1,4 @@
-<!-- built by gitlab-ci @ Tue May 23 2023 11:47:54 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ Tue May 23 2023 12:35:47 GMT+0000 (Coordinated Universal Time) -->
 ### Hola! This is [Birkhoff](https://github.com/BirkhoffLee).&nbsp;&nbsp;👋
 
 I've been building software since the age of 13, and I'm currently a backend developer at [jsDelivr CDN](https://www.jsdelivr.com). I build secure and repeatable hybrid cloud infrastructure. If you're looking to build a large Minecraft game network, visit my thread on [SpigotMC](https://www.spigotmc.org/threads/open-full-time-remote-distributed-infrastructure-management-cloud-native-iac-hybrid-cloud.245220/).
@@ -20,9 +20,9 @@ In the overview below you will find my most recent work experience:
 </a>
 
 **Site Reliability Engineer (SRE)** \
-[**Safemoon**](https://safemoon.com/) • Contract \
+[**Safemoon**](https://safemoon.com/) \
 Tech stack: `RHEL`, `Ansible`, `Terraform`, `Docker`, `Prometheus`, `Tailscale`, `MySQL Galera` \
-Led ops team to maintain HA of 20+ servers & hundreds of containers. Designed p2p VPN setup for the hybrid cloud infrastructure. Connected Prometheus, AlertManager and Grafana for integrated monitoring & alerting.
+Led the operations team to maintain HA of over 20 servers and over 100 containers. Designed a mesh VPN setup for the hybrid cloud infrastructure.
 <br/>
 
 ### Blog Posts
@@ -33,4 +33,4 @@ In the overview below you will find the featured posts of my [blog](https://birk
 - [Finding out a problem of gpg-agent](https://birkhoff.me/articles/finding-out-a-problem-of-gpg-agent) (2022-01-05)
 
 ### Credits
-I would like to thank everyone who has supported me in my career. If you would like to support my work in open-source, consider [sending a tip](https://birkhoff.me/#footer) or get in touch with me via [email](mailto:hello@birkhoff.me) or [Twitter](https://twitter.com/birkhofflee).
+I would like to thank everyone who has supported me in my career. If you would like to get in touch, the best tway to reach out would be via [email](mailto:hello@birkhoff.me) or [Twitter](https://twitter.com/birkhofflee).
