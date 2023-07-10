@@ -13,9 +13,9 @@ In the overview below you will find my most recent work experience:
 
 <a href="https://safemoon.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://safemoon.com/img/logo.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://safemoon.com/img/logo_dark.svg">
-    <img align="left" height="94px" width="94px" alt="Safemoon Logo" src="https://safemoon.com/img/logo_dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BirkhoffLee/BirkhoffLee/master/assets/safemoon-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BirkhoffLee/BirkhoffLee/master/assets/safemoon.svg">
+    <img align="left" height="94px" width="94px" alt="Safemoon Logo" src="https://raw.githubusercontent.com/BirkhoffLee/BirkhoffLee/master/assets/safemoon.svg">
   </picture>
 </a>
 
