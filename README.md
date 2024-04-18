@@ -1,7 +1,7 @@
 <!-- built by gitlab-ci @ Fri Apr 12 2024 09:03:17 GMT+0000 (Coordinated Universal Time) -->
 ### Ciao! Mi chiamo Alessandro.&nbsp;&nbsp;👋
 
-I'm Alexander, aka Birkhoff on the Internet. I'm a software designer, building software for over ten years, including ones that over a million people use daily. I also build secure and repeatable hybrid cloud infrastructure.
+I'm Alexander, aka Birkhoff on the Internet. I'm a software designer, building software for over 10 years, including ones that over a million people use daily. I also build secure and repeatable hybrid cloud infrastructure.
 
 - 🔨 My favourite programming languages are TypeScript and Python 3.
 - 🌱 Made several [contributions to open source since 2013](https://github.com/BirkhoffLee), to projects such as [Clash](https://github.com/Dreamacro/clash), [jsDelivr](https://github.com/jsdelivr/www.jsdelivr.com), [Crater](https://github.com/crater-invoice/crater) and [a beginner's guide to AI](https://github.com/humphd/have-fun-with-machine-learning).
