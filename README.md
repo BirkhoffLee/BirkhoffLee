@@ -8,6 +8,10 @@ I'm a software designer, musician and amateur gamer. I've been building software
 - ⚡ Besides software engineering, I'm into web3 development and blockchain technology as well.
 - 📫 Get in touch by email at [hello@birkhoff.me](mailto:hello@birkhoff.me) ([PGP](https://birkhoff.me/pgp-key.txt)) or Twitter ([@birkhofflee](https://twitter.com/birkhofflee)).
 
+<picture>
+  <img src="/calendar.svg" alt="GitHub Commit Calendar">
+</picture>
+
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
