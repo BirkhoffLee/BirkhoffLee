@@ -17,11 +17,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          config_padding: 0, -2%
+          config_padding: 0, -40
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
-          plugin_introduction: yes
-          plugin_introduction_title: no
+          base: repositories
           plugin_traffic: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 2465955
@@ -32,7 +30,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: followers.svg
-          config_padding: 0, -9%
+          config_padding: 0, -13
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_people: yes
@@ -41,7 +39,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: xkcd.svg
-          config_padding: 0, -5%
+          config_padding: 0, -70
           token: NOT_NEEDED
           base: ""
           plugin_screenshot: yes
