@@ -9,7 +9,7 @@ I'm a software designer, musician and amateur gamer. I've been building software
 - 📫 Get in touch by email at [hello@birkhoff.me](mailto:hello@birkhoff.me) ([PGP](https://birkhoff.me/pgp-key.txt)) or Twitter ([@birkhofflee](https://twitter.com/birkhofflee)).
 
 <picture>
-  <img src="/calendar.svg" alt="GitHub Commit Calendar">
+  <img src="/metrics.svg" alt="GitHub Metrics">
 </picture>
 
 ### Work Experience
@@ -38,3 +38,13 @@ In the overview below you will find the featured posts of my [blog](https://birk
 
 ### Credits
 I would like to thank everyone who has supported me in my career. If you would like to get in touch, the best tway to reach out would be via [email](mailto:hello@birkhoff.me) or [Twitter](https://twitter.com/birkhofflee).
+
+<picture>
+  <img src="/followers.svg" alt="My followers on GitHub">
+</picture>
+
+### Have a great day!
+
+<picture>
+  <img src="/xkcd.svg" alt="XKCD of the day">
+</picture>
