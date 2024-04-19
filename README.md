@@ -43,9 +43,3 @@ I would like to thank everyone who has supported me in my career. If you would l
 <picture>
   <img src="/followers.svg" alt="My followers on GitHub">
 </picture>
-
-### Have a great day!
-
-<picture>
-  <img src="/xkcd.svg" alt="XKCD of the day">
-</picture>

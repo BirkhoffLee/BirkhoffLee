@@ -18,8 +18,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
-          plugin_traffic: yes
+          base: head, repositories
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 2465955
           plugin_stackoverflow_sections: ""
@@ -33,13 +32,4 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: xkcd.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
+          plugin_people_limit: 48
