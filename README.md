@@ -1,11 +1,11 @@
-<!-- built by gitlab-ci @ Fri Jun 06 2025 09:03:20 GMT+0000 (Coordinated Universal Time) -->
-### Ciao! Mi chiamo Alessandro.&nbsp;&nbsp;👋
+<!-- built by gitlab-ci @ Wed Jun 11 2025 22:54:35 GMT+0000 (Coordinated Universal Time) -->
+### Ciao! Mi chiamo Alex.&nbsp;&nbsp;👋
 
-I'm Alexander, aka Birkhoff on the Internet. I'm a software designer, building software for over 10 years, including ones that over a million people use daily. I also build secure and repeatable hybrid cloud infrastructure.
+I'm Alex, aka birkhoff on the Internet. I'm a software designer who's been building software for over 10 years, including ones that millions of people use daily. I also build secure and repeatable hybrid cloud infrastructure.
 
-- 🔨 My favourite programming languages are TypeScript and Python 3.
+- 🔨 My favourite languages are TypeScript and Python 3.
 - 🌱 Made several [contributions to open source since 2013](https://github.com/BirkhoffLee), to projects such as [Clash](https://github.com/Dreamacro/clash), [jsDelivr](https://github.com/jsdelivr/www.jsdelivr.com), [Crater](https://github.com/crater-invoice/crater) and [a beginner's guide to AI](https://github.com/humphd/have-fun-with-machine-learning).
-- ⚡ Besides software engineering, I'm into web3 development and blockchain technology as well.
+- ⚡ Besides software engineering, I'm into LLMs, machine learning and blockchains as well.
 - 💬 I speak Mandarin Chinese, English and Italian.
 - 📫 Get in touch by email at [hello@birkhoff.me](mailto:hello@birkhoff.me) ([PGP](https://birkhoff.me/pgp-key.txt)) or Twitter ([@birkhofflee](https://twitter.com/birkhofflee)).
 
