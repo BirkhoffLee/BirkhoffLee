@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -14,14 +14,30 @@ jobs:
     permissions:
       contents: write
     steps:
+      # ref: https://github.com/lowlighter/metrics#-documentation
+      #
+      # Your GitHub token
+      # The following scopes are required:
+      #  - public_access (default scope)
+      # The following additional scopes may be required:
+      #  - read:org      (for organization related metrics)
+      #  - read:user     (for user related data)
+      #  - read:packages (for some packages related data)
+      #  - repo          (optional, if you want to include private repositories)
+      #
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: head, repositories
+          user: BirkhoffLee
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Rome
           plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_user: 2465955
-          plugin_stackoverflow_sections: ""
           plugin_stars: yes
           plugin_stars_limit: 2
 
